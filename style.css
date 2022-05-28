@@ -41,7 +41,7 @@ nav li{
 .bottom{
     position: sticky;
     height: 123px;
-    background-color: black;
+    background-color:  powderblue;
     color: white;
     bottom: 0;
     display: flex;
